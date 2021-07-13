@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [create-fullstack-app-js](https://github.com/ShubhankarKG/create-fullstack-app-js)
 
-- 🤝 I’m looking for help with [VJTI-Meet](https://github.com/ShubhankarKG/VJTI-Meet)
-
 - 👨‍💻 All of my projects are available at [My Repositories Page](https://github.com/ShubhankarKG?tab=repositories)
 
 - 💬 Ask me about **MERN Stack**
@@ -23,6 +21,4 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhankarkg&show_icons=true&locale=en" alt="shubhankarkg" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankarkg&" alt="shubhankarkg" /></p>
 
