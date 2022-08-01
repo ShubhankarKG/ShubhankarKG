@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubhankar K Gupta</h1>
 <h3 align="center">A full stack developer in making.</h3>
 
-- 🔭 I’m currently working on [VideoSummariser](https://github.com/ShubhankarKG/VideoSummariser)
+- 🔭 I’m currently working on [VNotes](https://github.com/ShubhankarKG/VNotes)
 
-- 🌱 I’m currently learning **Deep Learning** and **DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on [create-fullstack-app-js](https://github.com/ShubhankarKG/create-fullstack-app-js)
 
